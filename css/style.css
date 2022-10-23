@@ -17,11 +17,17 @@ img:hover{
 nav{
     color:blueviolet;
     font-family: Arial, Helvetica, sans-serif;
+    text-decoration-line: none;
+    padding: 10px 10px 10px;
 }
-
+ 
+a{
+    padding: 10px 10px 10px;    
+}
 .currentpage{
     color:black;
     font-family: Arial, Helvetica, sans-serif;
+    text-decoration-line: line-through;
 }
 .skip{
     color:rgb(0, 96, 2);
